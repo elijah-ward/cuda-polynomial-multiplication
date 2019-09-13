@@ -1,5 +1,5 @@
-# CS4402b Assignment 2
-## Polynomial Multiplication
+
+# CUDA Polynomial Multiplication
 
 ### Setup
 
